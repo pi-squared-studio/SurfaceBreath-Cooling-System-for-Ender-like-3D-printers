@@ -31,7 +31,7 @@ In addition, I made another version of the duct with a light. It is convenient t
 It uses standard LED strips up to 12 mm wide.
 
 Special set spacers with thicknesses of 3, 5, 10, 20 and 50mm are used for mounting to the X-axis frame.
-A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with tubes without a lamp, it will be enough for a standard printer to make one spacer with a thickness of 3 mm.
+A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with the duct without a lamp, it will be enough for a standard printer to make one spacer with 3mm thickness.
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
