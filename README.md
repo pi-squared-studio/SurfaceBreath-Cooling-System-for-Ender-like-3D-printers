@@ -36,4 +36,5 @@ A set of tubes of various thicknesses allows you to fix the duct at almost any a
 2. M5 EU#20 profile T-nuts - 2 pcs. For attach the duct to frame.
 3. M5 bolts - 2 pcs. Their total length should be 7-9mm out of contact surface + the distance of all spacers.
 4. Self-tapping screw OD 3mm  - 4 pcs (For screwing of the fan). Their total length should be 5-10mm + the thick of the fan.
-5. Self-tapping screw OD 3mm  - 2 pcs (Optional. For mostly screwed thin 3 or 5mm spacer). Their total length should be 6-9mm + the distance of all spacers.
+5. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of all spacers.
+6. Any suitable desired LED strip with a width of not more than 12 mm, and a length of not more than 230 mm, and a thickness of not more than 2.5mm. (For the option with a light) 
