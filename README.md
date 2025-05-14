@@ -22,4 +22,10 @@ Now your printer will not face the problem of the extruder nozzle colliding with
 
 SurfaceBreath was tested by me for PLA plastics and showed amazing results. According to my estimates, the adhesion of the part itself to the bed has even improved.
 There are no definite results with other plastics yet, as I have always had a great experience with PETG.
-ABS-like plastics, yes, the small parts like they've started to look a little smoother. I have not tried with large parts made of this plastic, since I do not have a thermal case.
+ABS-like plastics, yes, the small parts like they've started to look a little smoother. I have not tried with large parts made of this plastic, since I do not have a normal thermal case.
+
+In addition, I made another version of the duct with a light. It is convenient to use it to control the printing of the first layer, as it creates contrasting lighting. It can also be used as torch during maintenance.
+It uses standard LED strips up to 12 mm wide.
+
+Special set spacers with thicknesses of 3, 5, 10, 20 and 50mm are used for mounting to the X-axis frame.
+A set of tubes of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they do not touch various other printer mechanisms. In the version with tubes without a lamp, it will be enough for a standard printer to print one gasket with a thickness of 3 mm.
