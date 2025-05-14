@@ -31,17 +31,17 @@ In addition, I made another version of the duct with a light. It is convenient t
 It uses standard LED strips up to 12 mm wide.
 
 Special set spacers with thicknesses of 3, 5, 10, 20 and 50mm are used for mounting to the X-axis frame.
-A set of tubes of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they do not touch various other printer mechanisms. In the version with tubes without a lamp, it will be enough for a standard printer to make one spacer with a thickness of 3 mm.
+A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with tubes without a lamp, it will be enough for a standard printer to make one spacer with a thickness of 3 mm.
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
 ## Bill of materials
 
-1. 70X0 axial fan - 1 pc. I used the 7020 quiet model from an old 12 volt computer cooler, but you can use any other suitable 70x70mm size (for example, 7010, 7015 or 7030...) with any power supply voltage. If it is 24V, then it will be possible to power it from a printer's PSU. If you get one with a different voltage, then make a voltage stabilizer for it or take a separate power supply. It's a good idea to use any speed control for this fan.
+1. 70X0 axial fan - 1 pc. I used the 7020 quiet model from an old 12-volt computer cooler, but you can use any other suitable 70x70mm size (for example, 7010, 7015 or 7030...) with any power supply voltage. If it is 24V, then it will be possible to power it from a printer's PSU. If you get one with a different voltage, then make a voltage stabilizer for it or take a separate power supply. It's a good idea to use any speed control for this fan.
 2. M5 EU#20 profile T-nuts - 2 pcs. For attach the duct to frame.
-3. M5 bolts - 2 pcs. Their total length should be 7-9mm out of contact surface + the distance of all used spacers.
+3. M5 bolts - 2 pcs. Their total length should be 7-9mm out of contact surface + the distance of all used spacers. You may use a set of M5x10x1 washers for compensate extra length of bolts.
 4. Self-tapping screw OD 3mm  - 4 pcs (For screwing of the fan). Their total length should be 5-10mm + the thick of the fan.
-5. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of all used spacers.
+5. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
 6. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
 ## Print conditions
