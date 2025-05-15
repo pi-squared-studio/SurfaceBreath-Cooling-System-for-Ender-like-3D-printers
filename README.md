@@ -35,7 +35,7 @@ In addition, I made another version of the duct with a light. It is convenient t
 It uses standard LED strips up to 12 mm wide.
 
 Special set spacers with thicknesses of 3, 5, 10, 20 and 50mm are used for mounting to the X-axis frame.
-A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with the duct without a lamp, it will be enough for a standard printer to make one spacer with 3mm thickness.
+A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with the duct without a lamp, it will be enough for a standard printer to make one spacer with 3mm thickness. To raise the duct to a height of 5 or 10 mm, use an appropriate spacer with a thickness of 15 mm.
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
@@ -43,13 +43,20 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 
 ## Bill of materials
 
+### Base parts
 1. 70X0 axial fan - 1 pc. I used the 7020 quiet model from an old 12-volt computer cooler, but you can use any other suitable 70x70mm size (for example, 7010, 7015 or 7030...) with any power supply voltage. If it is 24V, then it will be possible to power it from a printer's PSU. If you get one with a different voltage, then make a voltage stabilizer for it or take a separate power supply. It's a good idea to use any speed control for this fan.
 2. M5 EU#20 profile T-nuts - 2 pcs. For attach the duct to frame.
-3. M5 bolts - 2 pcs. Their total length should be 6-8mm out of contact surface + the distance of all used spacers. You may use a set of M5x10x1 washers for compensate extra length of bolts. In other words, the ledge of the bolt deeper into the frame should not exceed 5mm.
+3. Self-tapping screw OD 3mm - 4 pcs. For screwing of the fan to duct. Their total length should be 5-10mm + the thick of the fan.
+4. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
+5. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
-4. Self-tapping screw OD 3mm - 4 pcs. For screwing of the fan to duct. Their total length should be 5-10mm + the thick of the fan.
-5. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
-6. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
+### Part for usual variant without rising
+6. M5 bolts - 2 pcs. Their total length should be 6-8mm out of contact surface + the distance of all used spacers. You may use a set of M5x10x1 washers for compensate extra length of their bolts. In other words, the ledge of the bolt deeper into the frame should not exceed 5mm.
+
+### Part for variant with rising
+6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising part.
+7. M5 hex nut - 2pcs.
+8. M5x10 bolts - 2 pcs. For attachin to frame.
 
 ![Assembling Rule](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Assembling.jpg)
 
@@ -67,5 +74,7 @@ The diffusing glass is printed from transparent PETG. 2 walls. Different density
 This model was developed independently by autor and was based on well-known physical principles and phenomena.
 Everything described in this article is not a universal case for all such reasons, but is considered only from the perspective that specific experience has been gained.
 Any consequences with the use of this device are attributed to the follower who repeated this idea.
-The model is in slow development and modification. Please note that repeated it is possible that the model may be changed or reinterpreted, embodied in a new form. 
+The model is in slow development and modification and it may contain some flaws. 
+Check all dimensions and mounting options before you print these parts!
+Please note that repeated it is possible that the model may be changed or reinterpreted, embodied in a new form.
 All new modifications or additional improvements will be posted on this page: https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System
