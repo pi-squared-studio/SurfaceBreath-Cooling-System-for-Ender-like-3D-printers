@@ -50,10 +50,10 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 4. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
 5. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
-### Part for usual variant without rising
+### Parts for usual variant without rising
 6. M5 bolts - 2 pcs. Their total length should be 6-8mm out of contact surface + the distance of all used spacers. You may use a set of M5x10x1 washers for compensate extra length of their bolts. In other words, the ledge of the bolt deeper into the frame should not exceed 5mm.
 
-### Part for variant with rising
+### Parts for variant with rising
 6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising part.
 7. M5 hex nut - 2pcs.
 8. M5x10 bolts - 2 pcs. For attaching a rising part to the frame.
