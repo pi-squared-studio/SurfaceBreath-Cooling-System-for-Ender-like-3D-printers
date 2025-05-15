@@ -56,7 +56,7 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 ### Part for variant with rising
 6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising part.
 7. M5 hex nut - 2pcs.
-8. M5x10 bolts - 2 pcs. For attachin to frame.
+8. M5x10 bolts - 2 pcs. For attaching to frame.
 
 ![Assembling Rule](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Assembling.jpg)
 
@@ -64,7 +64,8 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 ## Print conditions
 
 The duct and spacers are printed from the plastic from which subsequent products will be printed, and this material must withstand the temperature of a heated bed. ABS will be an ideal option for everyday tasks, but you will need to ensure the internal strength of the part so that it does not come off the bed and does not get upset during printing.
-0.2 - layer thickness (0.3 if you want quickly print), 3-4 wall loops, 10% infill enough - the part does not experience heavy loads. Print without support, but make sure that the overhang bridges print well.  A raft is allowed to increase the strength of the attachment to the bed.
+0.2 - layer thickness (0.3 if you want quickly print), 3-4 wall loops, 10% infill enough for duct - the part does not experience heavy loads. For spacers need to increase infil upto 50%.
+Print without support, but make sure that the overhang bridges print well.  A raft is allowed to increase the strength of the attachment to the bed.
 
 The diffusing glass is printed from transparent PETG. 2 walls. Different density fillings can be applied for various dispersion. I prefer 20% gyroid filling.
 
