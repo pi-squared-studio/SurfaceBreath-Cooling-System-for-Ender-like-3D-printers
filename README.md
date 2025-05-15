@@ -1,6 +1,10 @@
 # SurfaceBreath Cooling System (for Ender-like 3D-printers)
 _Simple thing to increase quality of yours 3D prints_
 
+![Compare the cooling 1](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare1.png)
+
+![Compare the cooling 2](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare2.png)
+
 ## Features
 
 **Description:**	This device is an additional cooler for the printed part to improve product quality. The main purpose is to ensure uniform cooling of the upper layer of the part, against the formation of overhangs bending upwards.
