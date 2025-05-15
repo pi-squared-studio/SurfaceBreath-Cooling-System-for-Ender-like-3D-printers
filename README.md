@@ -35,7 +35,7 @@ In addition, I made another version of the duct with a light. It is convenient t
 It uses standard LED strips up to 12 mm wide.
 
 Special set spacers with thicknesses of 3, 5, 10, 20 and 50mm are used for mounting to the X-axis frame.
-A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with the duct without a lamp, it will be enough for a standard printer to make one spacer with 3mm thickness. To raise the duct to a height of 5 or 10 mm, use an appropriate spacer with a thickness of 15 mm.
+A set of the spacers of various thicknesses allows you to fix the duct at almost any acceptable distance from the frame so that they don't touch various other printer mechanisms. In the version with the duct without a lamp, it will be enough for a standard printer with direct extruder to make just one spacer with 3mm thickness. To raise the duct to a height of 5 or 10 mm, use an appropriate spacer with a thickness of 15 mm.
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
@@ -50,11 +50,11 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 4. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 8-12mm + the distance of attached spacer.
 5. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
-### Parts for usual variant without rising
+### Parts for usual variant without rising spacer
 6. M5 bolts - 2 pcs. Their total length should be 6-8mm out of contact surface + the distance of all used spacers. You may use a set of M5x10x1 washers for compensate extra length of their bolts. In other words, the ledge of the bolt deeper into the frame should not exceed 5mm.
 
-### Parts for variant with rising
-6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising part.
+### Parts for variant with rising spacer
+6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising one.
 7. M5 hex nut - 2pcs.
 8. M5x10 bolts - 2 pcs. For attaching a rising part to the frame.
 
