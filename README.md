@@ -18,6 +18,8 @@ _Simple thing to increase quality of yours 3D prints_
 
 ## Overview
 
+![Overview Front](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Overview_00.png)
+
 In my practice, I have encountered the problem of breaking off a part of a printing model (or even the entire model) from the bed during the printing process. When I began to study this problem, it turned out that the curved overhangs rising up from the temperature were to blame for everything. This was due to the fact that the part was still heated from the table (although its temperature was lower than the temperature of the softened plastic), and the additional heat radiated from the hotend, which was enough for this process to take place. Even the cooling of the standard fan, baked at 100%, was not enough to stop this process, which could start a few centimeters away from the cooling stream.
 The second problem, after I adjusted all the temperature and speedy settings, and the parts no longer came off the bed, was that slightly protruding overhangs could spoil the appearance of the surfaces. This became especially noticeable when using silk PLA in art projects. Defects occurred on both external and internal overhangs. It could either be a non-glossy, furrowed surface, or random "warts" appeared on it.
 It was decided to develop an additional cooling system to the existing one in order to remove such defects. This is not a replacement for the standard one, but only serves to optimize the temperature regime at the printing surface. In other words, it "freezes" the topmost layer from accidental additional heating. SurfaceBreath has no additional effect on the main fan flow.
@@ -37,6 +39,7 @@ A set of the spacers of various thicknesses allows you to fix the duct at almost
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
+![Overview Front](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Overview_1.png)
 
 ## Bill of materials
 
