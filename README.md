@@ -47,7 +47,7 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 1. 70X0 axial fan - 1 pc. I used the 7020 quiet model from an old 12-volt computer cooler, but you can use any other suitable 70x70mm size (for example, 7010, 7015 or 7030...) with any power supply voltage. If it is 24V, then it will be possible to power it from a printer's PSU. If you get one with a different voltage, then make a voltage stabilizer for it or take a separate power supply. It's a good idea to use any speed control for this fan.
 2. M5 EU#20 profile T-nuts - 2 pcs. For attach the duct to frame.
 3. Self-tapping screw OD 3mm - 4 pcs. For screwing of the fan to duct. Their total length should be 5-10mm + the thick of the fan.
-4. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
+4. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 8-12mm + the distance of attahed spacer.
 5. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
 ### Parts for usual variant without rising
