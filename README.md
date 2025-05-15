@@ -56,7 +56,7 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 ### Part for variant with rising
 6. M5 bolts - 2 pcs. Their total length should be 13-15mm out of contact surface + the distance of all used spacers before rising part.
 7. M5 hex nut - 2pcs.
-8. M5x10 bolts - 2 pcs. For attaching to frame.
+8. M5x10 bolts - 2 pcs. For attaching a rising part to the frame.
 
 ![Assembling Rule](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Assembling.jpg)
 
