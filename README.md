@@ -51,6 +51,8 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 5. Self-tapping countersunk screw OD 3mm  - 2 pcs (Optional. For mostly screwing thin, near the duct, 3 or 5mm spacer). Their total length should be 6-9mm + the distance of attahed spacer.
 6. Any suitable desired LED strip with a width of not more than 12mm, and a length of not more than 230mm, and a thickness of not more than 2.5mm. (For the option with a light). A dimmer is also welcome.
 
+![Assembling Rule](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Assembling.jpg)
+
 ## Print conditions
 
 The duct and spacers are printed from the plastic from which subsequent products will be printed, and this material must withstand the temperature of a heated bed. ABS will be an ideal option for everyday tasks, but you will need to ensure the internal strength of the part so that it does not come off the bed and does not get upset during printing.
