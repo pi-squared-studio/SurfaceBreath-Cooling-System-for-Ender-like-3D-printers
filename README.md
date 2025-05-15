@@ -1,11 +1,11 @@
 # SurfaceBreath Cooling System (for Ender-like 3D-printers)
 _Simple thing to increase quality of yours 3D prints_
 
+![Compare the cooling 3](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare3.png)
+
 ![Compare the cooling 1](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare1.png)
 
 ![Compare the cooling 2](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare2.png)
-
-![Compare the cooling 3](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Compare3.png)
 
 ## Features
 
@@ -59,3 +59,11 @@ The duct and spacers are printed from the plastic from which subsequent products
 0.2 - layer thickness (0.3 if you want quickly print), 3-4 wall loops, 10% infill enough - the part does not experience heavy loads. Print without support, but make sure that the overhang bridges print well.  A raft is allowed to increase the strength of the attachment to the bed.
 
 The diffusing glass is printed from transparent PETG. 2 walls. Different density fillings can be applied for various dispersion. I prefer 20% gyroid filling.
+
+## Disclaimers
+
+This model was developed independently by autor and was based on well-known physical principles and phenomena.
+Everything described in this article is not a universal case for all such reasons, but is considered only from the perspective that specific experience has been gained.
+Any consequences with the use of this device are attributed to the follower who repeated this idea.
+The model is in slow development and modification. Please note that repeated it is possible that the model may be changed or reinterpreted, embodied in a new form. 
+All new modifications or additional improvements will be posted on this page: https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System
