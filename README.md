@@ -11,9 +11,9 @@ _Simple thing to increase quality of yours 3D prints_
 
 **Designed for:**	Voxelab Aquila C2
 
-**Compabtility:**	Creality Ender-3 and its clones with 235 mm bed width.
+**Compabtility:**	Creality Ender-3 and its clones with 235 mm bed width
 
-**Mount:**		at backside of X-axis 	
+**Mount:**		at backside of X-axis rail. The height of the duct above the bed is 5 mm when using a standard nozzle downgrade.
 
 
 ## Overview
@@ -37,6 +37,7 @@ A set of the spacers of various thicknesses allows you to fix the duct at almost
 
 _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan that will blow over the extruder elements from accidental melting during idle time, or to provide of air microcirculation in the thermoenclouse, if such is used.
 
+
 ## Bill of materials
 
 1. 70X0 axial fan - 1 pc. I used the 7020 quiet model from an old 12-volt computer cooler, but you can use any other suitable 70x70mm size (for example, 7010, 7015 or 7030...) with any power supply voltage. If it is 24V, then it will be possible to power it from a printer's PSU. If you get one with a different voltage, then make a voltage stabilizer for it or take a separate power supply. It's a good idea to use any speed control for this fan.
@@ -49,12 +50,14 @@ _SurfaceBreath_ can also be used as a fan to quickly cooldown the bed, a fan tha
 
 ![Assembling Rule](https://github.com/pi-squared-studio/SurfaceBreath_Cooling_System/blob/main/media/Assembling.jpg)
 
+
 ## Print conditions
 
 The duct and spacers are printed from the plastic from which subsequent products will be printed, and this material must withstand the temperature of a heated bed. ABS will be an ideal option for everyday tasks, but you will need to ensure the internal strength of the part so that it does not come off the bed and does not get upset during printing.
 0.2 - layer thickness (0.3 if you want quickly print), 3-4 wall loops, 10% infill enough - the part does not experience heavy loads. Print without support, but make sure that the overhang bridges print well.  A raft is allowed to increase the strength of the attachment to the bed.
 
 The diffusing glass is printed from transparent PETG. 2 walls. Different density fillings can be applied for various dispersion. I prefer 20% gyroid filling.
+
 
 ## Disclaimers
 
